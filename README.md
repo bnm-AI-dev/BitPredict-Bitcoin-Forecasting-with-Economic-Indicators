@@ -1,5 +1,5 @@
 # Bitcoin Price Prediction
-A project to predict the price of Bitcoin using machine learning techniques.
+A project to predict the price of Bitcoin using machine learning and various economic indicators. 
 
 ## Getting Started
 
@@ -14,12 +14,11 @@ These instructions will get you a copy of the project and the necessary data to 
 
 ### Installation
 
-1. Clone the repository to your local machine using `git clone https://github.com/nzukimutisyo/Correlating-Cryptocurrencies-and-Economic-Indicators .git`
+1. Clone the repository to your local machine using `git clone https://github.com/bnm-AI-dev/BitPredict-Bitcoin-Forecasting-with-Economic-Indicators.git`
 2. Navigate to the project directory using `cd BitcoinCorrelation`
-3. Install the required libraries using `pip install -r requirements.txt`
-4. Download the Bitcoin price data and place it in the `data` folder
-5. Open the Jupyter Notebook using `jupyter notebook` and run the provided notebooks in the order they are numbered
-6. The final report can be found in the `data story` folder.
+3. Download the Bitcoin price data and place it in the `data` folder
+4. Open the Jupyter Notebook using `jupyter notebook` and run the provided notebooks in the order they are numbered
+5. The final report can be found in the `data story` folder.
 
 ## Built With
 
