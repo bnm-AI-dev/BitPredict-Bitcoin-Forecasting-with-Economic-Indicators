@@ -27,7 +27,7 @@ These instructions will get you a copy of the project and the necessary data to 
 * pandas, numpy, matplotlib, seaborn, sklearn
 
 ## Collaborators
-- Brian Nzuki 
+- Brian Mutisyo 
 - Stephanie Sanjines
 - Iona Clark
 - Joana Avrami
